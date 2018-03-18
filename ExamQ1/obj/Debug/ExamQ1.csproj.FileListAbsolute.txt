@@ -1,0 +1,10 @@
+C:\Users\marty\Desktop\AdvProg_Exam_ClareCreely2018\ExamQ1\bin\Debug\ExamQ1.exe.config
+C:\Users\marty\Desktop\AdvProg_Exam_ClareCreely2018\ExamQ1\bin\Debug\ExamQ1.exe
+C:\Users\marty\Desktop\AdvProg_Exam_ClareCreely2018\ExamQ1\bin\Debug\ExamQ1.pdb
+C:\Users\marty\Desktop\AdvProg_Exam_ClareCreely2018\ExamQ1\obj\Debug\ExamQ1.csprojResolveAssemblyReference.cache
+C:\Users\marty\Desktop\AdvProg_Exam_ClareCreely2018\ExamQ1\obj\Debug\ExamQ1.Form1.resources
+C:\Users\marty\Desktop\AdvProg_Exam_ClareCreely2018\ExamQ1\obj\Debug\ExamQ1.Properties.Resources.resources
+C:\Users\marty\Desktop\AdvProg_Exam_ClareCreely2018\ExamQ1\obj\Debug\ExamQ1.csproj.GenerateResource.Cache
+C:\Users\marty\Desktop\AdvProg_Exam_ClareCreely2018\ExamQ1\obj\Debug\ExamQ1.exe
+C:\Users\marty\Desktop\AdvProg_Exam_ClareCreely2018\ExamQ1\obj\Debug\ExamQ1.pdb
+C:\Users\marty\Desktop\AdvProg_Exam_ClareCreely2018\ExamQ1\obj\Debug\ExamQ1.CustomerArrearsReport.resources
